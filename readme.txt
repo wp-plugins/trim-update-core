@@ -29,7 +29,7 @@ e.g.
 
 == Screenshots ==
 
-1. themes.
+1. update.
 
 == Changelog ==
 
